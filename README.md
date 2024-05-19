@@ -26,7 +26,7 @@ Ici, on peut voir que le reset prend effet dès son activation, sans besoin que 
 ## Lab 2: Détecteur de code
 
 ### Objectif
-Dans ce , nous réaliserons un détecteur pour le code 11010. Si le code est détecté, une alarme est activée. 
+Dans ce lab, nous réaliserons un détecteur pour le code 11010. Si le code est détecté, une alarme est activée. 
 
 ### Utilisation des signaux
 - **BP 0** pour l’horloge
