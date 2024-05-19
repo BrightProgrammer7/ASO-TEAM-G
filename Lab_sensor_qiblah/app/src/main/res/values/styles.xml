@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Couleurs -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Couleur de fond de l'activité -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <!-- Couleur du texte principal -->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <!-- Couleur du texte secondaire -->
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <!-- Style de la barre d'action -->
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <!-- Style de la barre d'action -->
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!-- Couleur de fond de la barre d'action -->
+        <item name="background">@color/colorPrimary</item>
+        <!-- Couleur du texte de la barre d'action -->
+        <item name="titleTextColor">@android:color/white</item>
+    </style>
+
+</resources>
