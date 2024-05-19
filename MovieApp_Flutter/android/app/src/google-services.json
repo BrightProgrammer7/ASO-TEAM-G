@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163179812578",
+    "project_id": "moviesecend",
+    "storage_bucket": "moviesecend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163179812578:android:06e07693b719afc0f3f0bb",
+        "android_client_info": {
+          "package_name": "com.example.r08fullmovieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsghms_U-vCiafnnu7d76Viep_nx6XcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
