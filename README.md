@@ -47,6 +47,3 @@ Lors de la simulation, voici ce que nous avons obtenu :
 
 On remarque bien que dès qu’une fausse entrée est entrée, la variable d’état retombe à 0.
 
----
-
-Ce dépôt GitHub contient les fichiers VHDL nécessaires pour la création et la simulation d'un compteur de 2 bits ainsi que d'un détecteur de code pour le code 11010. Vous trouverez également des captures d'écran des schémas RTL et des résultats de simulation.
