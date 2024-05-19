@@ -1,4 +1,4 @@
-![image](https://github.com/BrightProgrammer7/ASO-TEAM-G1/assets/107751911/01a3282f-bd5c-4841-92ff-ebc6b3a5eebe)# ASO-TEAM-G1 
+
 ## Flutter Demo : https://www.youtube.com/watch?v=VxpqJHFqxOA
 ## Qibla Demo : 
 
